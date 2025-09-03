@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.api.demo.settings.UploadSettings">
+    <option name="autoAddSlash" value="true" />
+    <option name="autoParamExample" value="true" />
+    <option name="server" value="https://apis.eolink.com/api" />
+    <option name="toClassNameGroup" value="false" />
+    <option name="toDefaultGroup" value="true" />
+  </component>
+</project>

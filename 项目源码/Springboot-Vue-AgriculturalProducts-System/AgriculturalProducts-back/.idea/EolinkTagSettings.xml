@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.api.plugin.eolink.settings.TagSettings">
+    <option name="apiType" value="eo.api-type" />
+    <option name="groupName" value="eo.groupName" />
+    <option name="hidden" value="eo.hidden" />
+    <option name="intentionTag" value="//eo" />
+    <option name="method" value="eo.method" />
+    <option name="name" value="eo.name" />
+    <option name="path" value="eo.path" />
+    <option name="remark" value="eo.remark" />
+    <option name="requestType" value="eo.request-type" />
+    <option name="required" value="eo.required" />
+    <option name="rpcGroup" value="eo.rpc-group" />
+    <option name="rpcVersion" value="eo.rpc-version" />
+    <option name="url" value="eo.url" />
+  </component>
+</project>
